@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-PSRAM64H
+F https://www.espressif.com/sites/default/files/documentation/esp-psram32_datasheet_en.pdf
+$ENDCMP
+#
+$CMP Encoder_Board
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP Oscillator_50Mhz
+F https://abracon.com/Precisiontiming/ABLNO.pdf
+$ENDCMP
+#
+$CMP SW_2x3
+D Switch, single pole double throw, center OFF position
+K switch spdt single-pole double-throw ON-OFF-ON
+F ~
+$ENDCMP
+#
+$CMP SW_DPST_x2_NN
+D Single Pole Single Throw (SPST) switch, separate symbol
+K switch lever
+F ~
+$ENDCMP
+#
+#End Doc Library

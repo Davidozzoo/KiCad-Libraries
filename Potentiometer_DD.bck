@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Pot_5pin_2Ch
+D Potentiometer, US symbol
+K resistor variable
+F ~
+$ENDCMP
+#
+#End Doc Library

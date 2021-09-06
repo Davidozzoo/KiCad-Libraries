@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SB772
+D -0.15A Ic, -50V Vce, Low Noise Audio PNP Transistor, TO-92
+K Low Noise Audio PNP Transistor
+F http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf
+$ENDCMP
+#
+#End Doc Library
