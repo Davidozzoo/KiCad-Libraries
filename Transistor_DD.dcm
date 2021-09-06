@@ -6,4 +6,10 @@ K Low Noise Audio PNP Transistor
 F http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf
 $ENDCMP
 #
+$CMP AO4421
+D P-MOSFET transistor, source/gate/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
 #End Doc Library
