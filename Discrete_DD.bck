@@ -14,6 +14,12 @@ $CMP Oscillator_50Mhz
 F https://abracon.com/Precisiontiming/ABLNO.pdf
 $ENDCMP
 #
+$CMP Relay
+D Panasonic, 8A/16A, Small Polarized Latching Power Relays, Single coil, 1 Form A
+K SPST 1P1T
+F https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf
+$ENDCMP
+#
 $CMP SW_2x3
 D Switch, single pole double throw, center OFF position
 K switch spdt single-pole double-throw ON-OFF-ON
